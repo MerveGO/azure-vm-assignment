@@ -20,6 +20,4 @@ This repo will be used for a project that involves setting up a Virtual Machine 
 
 
 
-     Screenshots:
-     ![VM_1 screenshot](VM_1.png)
-     ![VM screenshot](VM.png)
+  
